@@ -36,6 +36,6 @@
 ehthumbs.db
 Thumbs.db
 
-./data/*
-./data_2/*
-*.parquet
+data/
+data_02/
+*.parq/
